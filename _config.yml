@@ -29,10 +29,9 @@ github_username:  SWDutta
 
 # Build settings
 # theme: minima
-remote_theme: huangyz0918/moving
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
