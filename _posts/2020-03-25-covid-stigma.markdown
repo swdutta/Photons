@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Covid Stigma"
-date:   2020-03-24 21:42:22 -0400
+date:   2020-03-25 08:42:22 -0400
 categories: health
 ---
+
+![Covid](/assets/images/covid.jpg)
 
 In 1925, F. Scott Fitzgerald wrote in The Great Gatsby that there was “no difference between men, in intelligence or race, so profound as the difference between the sick and the well.”
  
