@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Covid Stigma"
+date:   2020-03-24 21:42:22 -0400
+categories: health
+---
+
+In 1925, F. Scott Fitzgerald wrote in The Great Gatsby that there was “no difference between men, in intelligence or race, so profound as the difference between the sick and the well.”
+ 
+These sentiments toward the sick and unwell will become magnified over the next few months in the United States, as the novel coronavirus is expected to infect 20–60% of the population. While we have made tremendous social progress regarding race and gender, among others, the stigma of medical diagnoses continues. This has been heavily studied with respect to HIV and cancer, particularly when the diagnoses are associated with certain events that lead to the disease.
+ 
+It is already clear that early diagnoses of COVID-19 in people in the United States can be met with heavy scrutiny. For example, given the togetherness in responding to “flattening the curve” on the news and social media, there is little tolerance for those ignoring the requests of health officials to practice social distancing. A recent example would be spring breakers in Florida callously stating “if I get Corona, I get Corona,” some of which have now tested positive for COVID-19. However, social distancing is not a privilege shared by all citizens. Homelessness leads to the impossibility of distancing, given that shared public areas are aggregated for safety and community. Others, particularly those in the food and health industry, are providing essential services which lack the infrastructure for social distancing.
+ 
+Soon, a rapidly increasing number of diagnoses within the workplace will present themselves. While I hope the belief that calling in to work sick is sign of weakness will disappear, I am not optimistic. Many people, reportedly 81%, with COVID-19, will experience mild symptoms and may not feel protected to call in, given the baseline shortage of many workers in industries such as healthcare. It is our duty to nurture an environment that is safe to miss work without fear of discipline or lost wages.
+ 
+Lastly, given the wartime references, those lost in this battle will often die alone and with the stigma of poor health. Early reports from China strongly suggested this was a disease limited to the elderly, with co-morbidities. However, commonly understated is that these co-morbidities are most often hypertension and diabetes. Per the CDC, hypertension and diabetes are prevalent in 29% and 10% of Americans, who as we all know can live an active life and be a critical component of the workforce. While regularly used by health providers to relay optimism, frequent use of words such as “strong” or “tough” may signify certain groups who succumb to disease as expected losses.
+ 
+A more appropriate wartime saying, should we go that route, is that “no man, or woman, gets left behind.”
