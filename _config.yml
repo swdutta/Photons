@@ -29,7 +29,7 @@ github_username:  SWDutta
 
 # Build settings
 # theme: minima
-theme: huangyz0918/moving
+remote_theme: huangyz0918/moving
 plugins:
   - jekyll-feed
 
