@@ -28,7 +28,8 @@ twitter_username: SWDuttaMD
 github_username:  SWDutta
 
 # Build settings
-theme: minima
+# theme: minima
+theme: moving
 plugins:
   - jekyll-feed
 
