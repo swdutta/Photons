@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Welcome"
 date:   2020-03-30 21:42:22 -0400
 categories: misc
 ---
