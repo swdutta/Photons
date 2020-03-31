@@ -29,7 +29,8 @@ github_username:  SWDutta
 
 # Build settings
 # theme: minima
-theme: jekyll-swiss
+# theme: jekyll-swiss
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
 
@@ -52,3 +53,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+plugins:
+  - jekyll-remote-theme
