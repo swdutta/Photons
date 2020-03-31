@@ -28,9 +28,9 @@ twitter_username: SWDuttaMD
 github_username:  SWDutta
 
 # Build settings
- theme: minima
+# theme: minima
 # theme: jekyll-swiss
-#remote_theme: broccolini/swiss
+ remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 # Exclude from processing.
