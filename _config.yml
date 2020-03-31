@@ -33,6 +33,15 @@ remote_theme: huangyz0918/moving
 plugins:
   - jekyll-feed
 
+moving:
+  about_you: It's me
+  avatar_url: 
+  date_format: "%b %d"
+  back_to: "Index"
+  social_links:
+    rss: RSS
+    github:  swdutta
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
