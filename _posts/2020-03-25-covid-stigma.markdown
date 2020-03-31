@@ -5,7 +5,7 @@ date:   2020-03-25 08:42:22 -0400
 categories: health
 ---
 
-![image](/assets/images/covid.jpg)
+![image](/images/covid.jpg)
 
 In 1925, F. Scott Fitzgerald wrote in The Great Gatsby that there was “no difference between men, in intelligence or race, so profound as the difference between the sick and the well.”
  
