@@ -34,7 +34,8 @@ minima:
 # Build settings
 #theme: minima
 # theme: jekyll-swiss
-remote_theme: broccolini/swiss
+#remote_theme: broccolini/swiss
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
