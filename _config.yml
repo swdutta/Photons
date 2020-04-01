@@ -21,15 +21,10 @@ title: Photons
 email: sunilwdutta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Notes on health and other discoveries
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.swdutta.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "photons" # the subpath of your site, e.g. /blog
+url: "swdutta.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SWDuttaMD
 github_username:  SWDutta
-
-minima:
-  social_links:
-    twitter: SWDuttaMD
-    instagram: neildutta
 
 # Build settings
 #theme: minima
