@@ -32,11 +32,12 @@ minima:
     instagram: neildutta
 
 # Build settings
-theme: minima
+#theme: minima
 # theme: jekyll-swiss
-#remote_theme: broccolini/swiss
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
