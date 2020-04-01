@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Covid Stigma"
+title:  "Covid-19"
 date:   2020-03-25 08:42:22 -0400
 categories: health
 ---
