@@ -26,6 +26,11 @@ url: "www.swdutta.com" # the base hostname & protocol for your site, e.g. http:/
 twitter_username: SWDuttaMD
 github_username:  SWDutta
 
+minima:
+  social_links:
+    twitter: SWDuttaMD
+    instagram: neildutta
+
 # Build settings
 theme: minima
 # theme: jekyll-swiss
