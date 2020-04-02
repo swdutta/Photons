@@ -2,13 +2,13 @@
 layout: post
 title:  "Covid-19"
 date:   2020-03-25 08:42:22 -0400
-categories: health
+categories: notes
 ---
 
 ![image](/images/covid.jpg)
+> In 1925, F. Scott Fitzgerald wrote in The Great Gatsby that there was “no difference between men, in intelligence or race, so profound as the difference between the sick and the well.”
 
-In 1925, F. Scott Fitzgerald wrote in The Great Gatsby that there was “no difference between men, in intelligence or race, so profound as the difference between the sick and the well.”
- 
+***
 These sentiments toward the sick and unwell will become magnified over the next few months in the United States, as the novel coronavirus is expected to infect 20–60% of the population. While we have made tremendous social progress regarding race and gender, among others, the stigma of medical diagnoses continues. This has been heavily studied with respect to HIV and cancer, particularly when the diagnoses are associated with certain events that lead to the disease.
  
 It is already clear that early diagnoses of COVID-19 in people in the United States can be met with heavy scrutiny. For example, given the togetherness in responding to “flattening the curve” on the news and social media, there is little tolerance for those ignoring the requests of health officials to practice social distancing. A recent example would be spring breakers in Florida callously stating “if I get Corona, I get Corona,” some of which have now tested positive for COVID-19. However, social distancing is not a privilege shared by all citizens. Homelessness leads to the impossibility of distancing, given that shared public areas are aggregated for safety and community. Others, particularly those in the food and health industry, are providing essential services which lack the infrastructure for social distancing.
