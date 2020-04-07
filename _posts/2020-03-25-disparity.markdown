@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Covid-19"
+title:  "Disparity"
 date:   2020-03-25 08:42:22 -0400
 categories: notes
 ---
