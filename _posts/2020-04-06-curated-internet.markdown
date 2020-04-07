@@ -8,7 +8,7 @@ categories: misc
 ![image](/images/curated.jpg "Hike from this weekend")
 
 I often wonder how curated the internet is, given two highly relevant articles found me today. 
-
+***
 One is from the New York Times and the other from a site I use to frequent more often, but now only occasionally check. It paid off because I really enjoyed their post from today.
 
 The ***[NYT piece](https://www.nytimes.com/2020/04/02/smarter-living/fear-of-rejection.html?algo=identity&fellback=false&imp_id=854167468&imp_id=568453181&action=click&module=Smarter%20Living&pgtype=Homepage)*** discusses risks, and not fearing rejection. The part that stood out was side projects can often distract you from making leaps in your current profession. It is really hard to find an audience/constumer with limited time to devote to a side project. Instead, it might be easier, economical, and in the end more fulfilling to direct your efforts in advancing the career you already have.
