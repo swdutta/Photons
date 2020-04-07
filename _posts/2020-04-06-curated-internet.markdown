@@ -8,6 +8,7 @@ categories: misc
 ![image](/images/curated.jpg "Hike from this weekend")
 
 I often wonder how curated the internet is, given two highly relevant articles found me today. 
+
 ***
 One is from the New York Times and the other from a site I use to frequent more often, but now only occasionally check. It paid off because I really enjoyed their post from today.
 
