@@ -1,6 +1,6 @@
 
 ---
-layout: category_index
+layout: post
 title: Notes
 permalink: /notes/
 category_name: notes
