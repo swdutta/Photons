@@ -6,5 +6,3 @@ categories: misc
 ---
 
 ![image](/images/questions.jpg)
-
-Plenty to question, so do it.
